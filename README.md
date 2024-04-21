@@ -1,5 +1,6 @@
 # Remitly_assessment
 assessment for Remitly Internship 2024
+Piotr Błaszczyk
 
 After cloning the repository, the setup is ready for execution.
 When using an IDE, configure the Python interpreter to version 3.10, then simply execute main.py and UnitTests.py.
